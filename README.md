@@ -9,4 +9,5 @@ This framework allows predictions without any quantum calculations.
 Further we applied our framework to screen more than 107 unique surface sites on approximately 106 unique surfaces for 7 important reactions.
 
 
-The published paper can be accessed here: https://pubs.rsc.org/en/content/articlelanding/2020/cy/d0cy00682c
+The published paper can be accessed here: https://pubs.rsc.org/en/content/articlelanding/2020/cy/d0cy00682c.
+The software implementation of this work can be accessed on our group's repository:https://bitbucket.org/mmmontemore/surfep/src/master/
